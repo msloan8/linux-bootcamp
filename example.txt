@@ -5,3 +5,5 @@ But one day, he made a mistake and wrote buggy code. He searched for hours for
 his bug, but couldn't figure it out.
 
 He was very sad and got fired.
+In his next job he used Git.
+Then he was happy!
